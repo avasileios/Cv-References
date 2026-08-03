@@ -29,6 +29,7 @@ Click on any of the folders below to view the official documentation and PDF cer
 | Credential | Issuer | Focus Area |
 | :--- | :--- | :--- |
 | **Azure Administrator Associate (AZ-104)** | Microsoft | Cloud Infrastructure |
+| **Identity and Access Administrator Associate (SC-300)** | Microsoft | Cybersecurity |
 | **Security+ ce** | CompTIA | Cybersecurity |
 | **PowerEdge Operate Version 2.0** | Dell | Enterprise Hardware |
 

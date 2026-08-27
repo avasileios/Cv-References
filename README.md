@@ -32,6 +32,7 @@ Click on any of the folders below to view the official documentation and PDF cer
 | **Identity and Access Administrator Associate (SC-300)** | Microsoft | Cybersecurity |
 | **Security+ ce** | CompTIA | Cybersecurity |
 | **PowerEdge Operate Version 2.0** | Dell | Enterprise Hardware |
+| **Fabric Data Engineer Associate (DP-700)** | Microsoft | Data Engineering |
 
 ### 📊 [02. Office & Digital Literacy](./02-Office-and-Digital-Literacy/)
 *Extensive mastery of productivity tools and digital fundamentals.*
